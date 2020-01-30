@@ -1,0 +1,24 @@
+{
+  "name": "gatsby-tailwind-starter",
+  "version": "1.0.0",
+  "description": "A simple starter to get up and developing quickly with Gatsby and Tailwind",
+  "private": true,
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "d"
+  },
+  "keywords": [
+    "Gatsby",
+    "Tailwind"
+  ],
+  "author": "Dipankar Maikap <dipankarmaikap77@gmail.com> (http://dipankarmaikap.com/)",
+  "license": "MIT"
+}
