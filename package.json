@@ -13,12 +13,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "d"
+    "url": "https://github.com/dipankarmaikap/gatsby-tailwind-starter"
   },
   "keywords": [
     "Gatsby",
     "Tailwind"
   ],
   "author": "Dipankar Maikap <dipankarmaikap77@gmail.com> (http://dipankarmaikap.com/)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.19.10",
+    "gatsby-plugin-postcss": "^2.1.19",
+    "gatsby-plugin-purgecss": "^4.0.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^1.1.4"
+  }
 }
