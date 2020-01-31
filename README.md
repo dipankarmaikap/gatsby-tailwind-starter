@@ -43,7 +43,9 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
     ├── LICENSE
     ├── package-lock.json
     ├── package.json
-    └── README.md
+    ├── postcss.config.js
+    ├── README.md
+    └── tailwind.config.js
 
 1.  **`/node_modules`**: This directory contains all of the modules of code that your project depends on (npm packages) are automatically installed.
 
@@ -61,7 +63,11 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 
 8.  **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
 
-9.  **`README.md`**: A text file containing useful reference information about your project.
+9.  **`postcss.config.js`**: Here you can customize your Css,(By default `autoprefixer` and `cssnano` added) .(Check out the [config docs](https://www.gatsbyjs.org/docs/post-css/) for more detail).
+
+10. **`README.md`**: A text file containing useful reference information about your project.
+
+11. **`tailwind.config.js`**: You can extend tailwinds features.
 
 ## 🎓 Learning Gatsby
 
