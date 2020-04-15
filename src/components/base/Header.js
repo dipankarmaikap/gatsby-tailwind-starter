@@ -9,14 +9,8 @@ const Header = ({ siteTitle }) => (
     }}
   >
     <div className="container mx-auto py-4">
-      <h1 style={{ margin: 0 }}>
-        <Link
-          to="/"
-          style={{
-            color: `white`,
-            textDecoration: `none`
-          }}
-        >
+      <h1>
+        <Link to="/" className="text-4xl font-black text-white">
           {siteTitle}
         </Link>
       </h1>
