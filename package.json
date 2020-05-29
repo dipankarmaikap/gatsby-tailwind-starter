@@ -22,17 +22,17 @@
   "author": "Dipankar Maikap <dipankarmaikap77@gmail.com> (http://dipankarmaikap.com/)",
   "license": "MIT",
   "dependencies": {
-    "gatsby": "^2.20.17",
-    "gatsby-plugin-manifest": "^2.3.3",
-    "gatsby-plugin-postcss": "^2.2.1",
+    "gatsby": "^2.22.10",
+    "gatsby-plugin-manifest": "^2.4.9",
+    "gatsby-plugin-postcss": "^2.3.2",
     "gatsby-plugin-purgecss": "^5.0.0",
-    "gatsby-plugin-react-helmet": "^3.2.2",
+    "gatsby-plugin-react-helmet": "^3.3.2",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-helmet": "^6.0.0"
   },
   "devDependencies": {
-    "tailwindcss": "^1.2.0"
+    "tailwindcss": "^1.4.6"
   }
 }
