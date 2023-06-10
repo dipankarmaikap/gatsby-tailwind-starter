@@ -22,7 +22,7 @@
   "author": "Dipankar Maikap <dipankarmaikap77@gmail.com> (http://dipankarmaikap.com/)",
   "license": "MIT",
   "dependencies": {
-    "gatsby": "^2.22.10",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-manifest": "^2.4.9",
     "gatsby-plugin-postcss": "^2.3.2",
     "gatsby-plugin-purgecss": "^5.0.0",
